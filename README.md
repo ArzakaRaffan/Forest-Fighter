@@ -9,6 +9,12 @@ Weird wizard cursed Andy into a slime and ran away. Andy is so mad, he wants to 
 But oh, its not that easy. Andy has to jump over and fight enemies first to earn his revenge.
 Help Andy fight the enemies!
 
+# Install Tutorial
+- Download zip file of Forest Fighter, you should get Forest-Fighter-main.zip in your download folder
+- Extract the zip file using winrar or normal windows extracting tool (every windows has it), extract to any directory you want
+- Open that directory, then run ForestFighter.exe. If there any warning, just proceed. I guarantee you there's no virus or malware or any other harmful things
+- Enjoy the game!
+  
 # Game Parts
 - Main menu: Its a welcome page and users could choose whether they want to start the game, read the game's backstory, or just quit the game
 - Main Game: Its where the player move their character (slime) to jump over many moving obstacles. The further you go, the faster everything will be! be careful!
