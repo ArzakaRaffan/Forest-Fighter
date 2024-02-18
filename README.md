@@ -23,3 +23,6 @@ Help Andy fight the enemies!
 # Controls
 - Space: Jump over obstacles
 - Left click: Choose some options
+
+# PyGame
+This game is fully supported with PyGame (https://www.pygame.org/docs/)
